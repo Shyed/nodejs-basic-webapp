@@ -1,0 +1,14 @@
+<!-- 2.Create profile page template. Use data passed to the profile page template and display it within the view. -->
+
+doctype html
+html
+    head
+        title 'The profile'
+    body
+        ul
+            each  student, i in students
+                
+                li=  'Name: ' + student.name
+                ul
+                    li= 'Age: ' + student.age
+                    li= 'Major: ' + student.major
