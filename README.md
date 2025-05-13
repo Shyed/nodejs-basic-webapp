@@ -38,6 +38,7 @@ project-root/
    ```bash
    npm install
 
-   Author
+ 
+Author
 Created by Sheila Demonteverde  
 Junior Software Engineering Student at Penn State World Campus
