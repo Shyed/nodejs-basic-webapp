@@ -37,3 +37,7 @@ project-root/
 1. **Install dependencies**
    ```bash
    npm install
+
+   Author
+Created by Sheila Demonteverde  
+Junior Software Engineering Student at Penn State World Campus
