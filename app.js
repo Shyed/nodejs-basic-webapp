@@ -9,7 +9,7 @@ app.set("views", path.join(__dirname, "views"));
 /* GET home page. */
 app.get('/home', function(req, res, next) {
     /*
-    Add a few lines of code to the above /home route to create an array of student’s 
+    Requirement: Add a few lines of code to the above /home route to create an array of student’s 
     information that hold name, age and major of each student. Add at least two students 
     to the array and pass it to the profile page.
     */
